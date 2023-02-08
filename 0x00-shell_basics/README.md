@@ -1,3 +1,2 @@
 #!/bin/bash
-new readme
-
+new readme/n
