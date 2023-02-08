@@ -1,1 +1,2 @@
-This is a shell repo
+#!bin/bash
+This is a shell repo/n
