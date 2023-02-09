@@ -10,3 +10,4 @@
 9-John_Doe gives owner all permissions,group read and execute permissions and others write and exectute permissions
 10-mirror_permissions makes hello imitate olleh's permissions
 11-directories_permissions adds execute permissions to all directories under the owner
+ 12-shell_permissions creates directory my_dir with 751 permissions in the working directory
