@@ -13,3 +13,4 @@
  12-shell_permissions creates directory my_dir with 751 permissions in the working directory
 13-change_group changes the group owner to school for the file hello
 100-change_owner_and_group
+101-symbolic_link_permissions changes group owner of _hello to vincent and staff respectively
