@@ -9,3 +9,4 @@
 8-James_Bond adds all permissions to other users and denies owner and group all permissions
 9-John_Doe gives owner all permissions,group read and execute permissions and others write and exectute permissions
 10-mirror_permissions makes hello imitate olleh's permissions
+11-directories_permissions adds execute permissions to all directories under the owner
