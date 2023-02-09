@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod u+x hello
+5-execute adds execute permissions to the ownere of the file hello
