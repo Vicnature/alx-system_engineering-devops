@@ -15,3 +15,9 @@
 15-countthatword displays the number of lines containing the pattern bin in the file /etc/passwd
 16-whatsnext displays lines containing the pattern root and 3 lines after them
 17-hidethisword displays all lines in the file /etc/passwd that do not contain the pattern bin
+18-lettersonly displays all lines starting with a letter
+replaces all characters A and c from input Z and e respectively
+19-AZ replaces A and C from input to Z and e
+20-hiago removes c and C from input
+21-reverse reverses its input
+22-users_and_homes displays all users and their home directories,sorted by users
