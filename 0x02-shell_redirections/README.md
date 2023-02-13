@@ -21,3 +21,7 @@ replaces all characters A and c from input Z and e respectively
 20-hiago removes c and C from input
 21-reverse reverses its input
 22-users_and_homes displays all users and their home directories,sorted by users
+100-empty_casks finds all empty files and directories in the current directoroy and all sub-directories
+101-gifs lists all files with a .gif extension in the current directory and all its subdirectories
+102-acrostic decodes acrostics
+103-the_biggest_fan parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
