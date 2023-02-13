@@ -6,3 +6,5 @@
 5-firstlines displays first 5 lines
 6-third line displays third line of iacta
 7-file creates the file above
+8-cwd_state ls_cwd_content the result of the command ls -la
+9-duplicate_last_line duplicates the last line of iacta
