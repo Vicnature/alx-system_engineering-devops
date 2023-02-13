@@ -9,3 +9,4 @@
 8-cwd_state ls_cwd_content the result of the command ls -la
 9-duplicate_last_line duplicates the last line of iacta
 10-no_more_js delete all regular files with a .js extension
+11-directories counts number of directories in the current directory
