@@ -5,3 +5,4 @@
 4-lastlines displays last 10 lines of /etc/passwd
 5-firstlines displays first 5 lines
 6-third line displays third line of iacta
+7-file creates the file above
