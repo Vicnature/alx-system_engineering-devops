@@ -13,3 +13,4 @@
 12-newest_files displays the 10 newest files in the current directory
 14-findthatword displays lines containing the pattern root from the file etc/passwd
 15-countthatword displays the number of lines containing the pattern bin in the file /etc/passwd
+16-whatsnext displays lines containing the pattern root and 3 lines after them
