@@ -7,3 +7,5 @@
 files 6 crates a new local variable
 file 7 creates a new global variable
 file 8 prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
+file 12 Create a script that prints all possible combinations of two letters, except oo
+file 13 prints a number with 2 decimal places followed by a new line
