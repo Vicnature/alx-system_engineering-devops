@@ -1,3 +1,2 @@
-#!/bin/bash
+!/bin/bash
 set
-5-local_variables prints all local and global variables and functions
