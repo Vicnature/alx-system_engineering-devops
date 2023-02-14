@@ -5,3 +5,4 @@
 4-global variables lists environment variables
 5-local_variables prints out local and globla variables and functions
 files 6 crates a new local variable
+file 7 creates a new global variable
